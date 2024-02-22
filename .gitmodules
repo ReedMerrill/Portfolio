@@ -1,0 +1,3 @@
+[submodule "emotions-multilabel-classification"]
+	path = emotions-multilabel-classification
+	url = git@github.com:ReedMerrill/emotions-multilabel-classification.git
