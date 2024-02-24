@@ -4,3 +4,6 @@
 [submodule "toxicity-data-collection"]
 	path = toxicity-data-collection
 	url = git@github.com:ReedMerrill/toxicity-data-collection.git
+[submodule "back-propogation"]
+	path = back-propogation
+	url = git@github.com:ReedMerrill/back-propogation.git
