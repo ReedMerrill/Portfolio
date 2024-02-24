@@ -1,3 +1,6 @@
 [submodule "emotions-multilabel-classification"]
 	path = emotions-multilabel-classification
 	url = git@github.com:ReedMerrill/emotions-multilabel-classification.git
+[submodule "toxicity-data-collection"]
+	path = toxicity-data-collection
+	url = git@github.com:ReedMerrill/toxicity-data-collection.git
