@@ -7,3 +7,6 @@
 [submodule "back-propogation"]
 	path = back-propogation
 	url = git@github.com:ReedMerrill/back-propogation.git
+[submodule "sampleReddit"]
+	path = sampleReddit
+	url = git@github.com:ReedMerrill/sampleReddit.git
