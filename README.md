@@ -1,4 +1,4 @@
-# Welcome to my portfolio
+# Welcome to my portfolio :wave:
 
 This repo contains four submodules that link to other repos in my github account:
 
