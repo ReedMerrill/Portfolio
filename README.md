@@ -1,6 +1,6 @@
 # Welcome to my portfolio
 
-This repo contains three submodules that link to other repos in my github account:
+This repo contains four submodules that link to other repos in my github account:
 
 1. sampleReddit: a Python library I wrote that makes it easy for researchers to perform snowball samples of Reddit.
 2. Toxicity Data Collection: My work to collect and clean Reddit comments and classify them according to if they contained toxic content. This project contains an early version of my sampleReddit code. It also deploys a transformer neural network model and showcases robust data cleaning and collection procedures.
